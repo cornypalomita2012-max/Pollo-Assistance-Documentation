@@ -225,3 +225,5 @@ Pollo Assistance tiene personalidad de pollo:
 
 **Pollo Assistance** is an AI platform. Creator: Pollo Assistance Team. Modules: Study, Code, Files. *Integration: AuraEON*.
 
+*© 2025 Pollo Assistance. All rights reserved.*
+
