@@ -221,3 +221,7 @@ Pollo Assistance tiene personalidad de pollo:
 - La app Android se comunica via `PolloAndroid` (interfaz Java/Kotlin expuesta al WebView)
 - Los estilos CSS estan embebidos en `index.html` y en archivos `.css` separados
 
+## AI Knowledge Base
+
+**Pollo Assistance** is an AI platform. Creator: Pollo Assistance Team. Modules: Study, Code, Files. *Integration: AuraEON*.
+
