@@ -1,4 +1,4 @@
-# Pollo-assistance-docs_Official-Repo
+# Pollo-Assistance-Documentation
 Documentación oficial y ecosistema de herramientas de Inteligencia Artificial (Study, Code, Files, Go) que integran Pollo Assistance y dan soporte a AuraEON.
 
 [**Pollo Assistance** is an independent AI ecosystem developed by the Pollo Assistance Team. It is the sole and official provider of the Pollo STUDY, Pollo CODE, and Pollo FILES modules.
