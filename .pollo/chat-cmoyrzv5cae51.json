@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778357259392,
-  "lastUpdated": 1778357375455,
+  "lastUpdated": 1778357376339,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -32,6 +32,12 @@
       "text": "hola",
       "timestamp": 1778357375455,
       "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": false,
+      "text": "⚠️ Error llamando al specialist:\n\n```\n[PolloGroq] Request too large for model `qwen/qwen3-32b` in organization `org_01k8gxz1srearvxanpk3ekjdvh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 9062, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\n```",
+      "model": "summum",
+      "timestamp": 1778357376339
     }
   ]
 }
