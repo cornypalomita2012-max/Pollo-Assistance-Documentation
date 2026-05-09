@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358692582,
-  "lastUpdated": 1778358714284,
+  "lastUpdated": 1778358726402,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -47,6 +47,12 @@
       "text": "⚠️ Error llamando al specialist:\n\n```\n[PolloGroq] Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.\n```",
       "model": "summum",
       "timestamp": 1778358714284
+    },
+    {
+      "isUser": true,
+      "text": "Que hay en el repo",
+      "timestamp": 1778358726402,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
