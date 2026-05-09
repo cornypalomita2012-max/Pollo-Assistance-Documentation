@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358105535,
-  "lastUpdated": 1778358145189,
+  "lastUpdated": 1778358150767,
   "currentMode": "ask",
   "currentModel": "palos",
   "messages": [
@@ -86,6 +86,12 @@
       "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
       "timestamp": 1778358144786,
       "_hidden": true
+    },
+    {
+      "isUser": true,
+      "text": "Dime que hay en este repo SIN TOCAR NADA",
+      "timestamp": 1778358150767,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
