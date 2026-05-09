@@ -8,10 +8,10 @@
   "folderId": "",
   "folderName": "",
   "ownerUid": "0XhMcS3Y2qYve5PForo5lNOOrH33",
-  "ownerLogin": "cornypalomita2012-max",
+  "ownerLogin": "",
   "ownerEmail": "",
   "createdAt": 1778356277546,
-  "lastUpdated": 1778356303255,
+  "lastUpdated": 1778356750890,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -26,6 +26,12 @@
       "text": "⚠️ Error llamando al specialist:\n\n```\nFailed to fetch\n```",
       "model": "summum",
       "timestamp": 1778356303255
+    },
+    {
+      "isUser": true,
+      "text": "wrangler deploy pollo-luces-proxy.js --name pollo-luces-proxy",
+      "timestamp": 1778356750890,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
