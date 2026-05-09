@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778359219544,
-  "lastUpdated": 1778359229801,
+  "lastUpdated": 1778359232670,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -20,6 +20,48 @@
       "text": "Dime que hay en el repo",
       "timestamp": 1778359229801,
       "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": false,
+      "text": "",
+      "model": "summum",
+      "ai": {
+        "key": "llama-70b",
+        "provider": "Meta",
+        "name": "Llama 3.3 70B",
+        "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
+      },
+      "timestamp": 1778359231847,
+      "toolCalls": [
+        {
+          "id": "77qjczhwh",
+          "type": "function",
+          "function": {
+            "name": "fs_listDir",
+            "arguments": "{\"path\":\"\"}"
+          }
+        }
+      ]
+    },
+    {
+      "isUser": false,
+      "role": "tool",
+      "tool_call_id": "77qjczhwh",
+      "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
+      "timestamp": 1778359231847,
+      "_hidden": true
+    },
+    {
+      "isUser": false,
+      "text": "Hay un directorio `.pollo/`, un archivo `LICENSE` de 7048 bytes y un archivo `README.md` de 10636 bytes en la raíz del repo.",
+      "model": "summum",
+      "ai": {
+        "key": "llama-70b",
+        "provider": "Meta",
+        "name": "Llama 3.3 70B",
+        "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
+      },
+      "timestamp": 1778359232670
     }
   ]
 }
