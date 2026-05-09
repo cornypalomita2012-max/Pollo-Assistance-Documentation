@@ -11,8 +11,15 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358105535,
-  "lastUpdated": 1778358105535,
+  "lastUpdated": 1778358110498,
   "currentMode": "ask",
-  "currentModel": "summum",
-  "messages": []
+  "currentModel": "palos",
+  "messages": [
+    {
+      "isUser": true,
+      "text": "Dime que hay en este repo SIN TOCAR NADA",
+      "timestamp": 1778358110498,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    }
+  ]
 }
