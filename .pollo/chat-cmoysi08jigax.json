@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358105535,
-  "lastUpdated": 1778358133262,
+  "lastUpdated": 1778358143858,
   "currentMode": "ask",
   "currentModel": "palos",
   "messages": [
@@ -73,6 +73,12 @@
       "text": "⚠️ Error llamando al specialist:\n\n```\n[PolloGroq] Request too large for model `llama-3.1-8b-instant` in organization `org_01k8gxz1srearvxanpk3ekjdvh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6409, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\n```",
       "model": "palos",
       "timestamp": 1778358133262
+    },
+    {
+      "isUser": true,
+      "text": "Dime que hay en este repo SIN TOCAR NADA",
+      "timestamp": 1778358143858,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
