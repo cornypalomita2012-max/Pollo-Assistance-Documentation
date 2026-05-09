@@ -8,10 +8,10 @@
   "folderId": "",
   "folderName": "",
   "ownerUid": "0XhMcS3Y2qYve5PForo5lNOOrH33",
-  "ownerLogin": "cornypalomita2012-max",
+  "ownerLogin": "",
   "ownerEmail": "",
   "createdAt": 1778356764458,
-  "lastUpdated": 1778356917954,
+  "lastUpdated": 1778357222513,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -31,6 +31,12 @@
       "isUser": true,
       "text": "Dime que hay en este repo SIN TOCAR NADA",
       "timestamp": 1778356917954,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": true,
+      "text": "Dime que hay en este repo SIN TOCAR NADA",
+      "timestamp": 1778357222513,
       "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
