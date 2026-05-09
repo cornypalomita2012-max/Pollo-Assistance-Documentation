@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358105535,
-  "lastUpdated": 1778358143858,
+  "lastUpdated": 1778358145189,
   "currentMode": "ask",
   "currentModel": "palos",
   "messages": [
@@ -57,19 +57,6 @@
     },
     {
       "isUser": false,
-      "text": "_pensando…_",
-      "model": "palos",
-      "ai": {
-        "key": "llama-8b",
-        "provider": "Meta",
-        "name": "Llama 3.1 8B",
-        "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
-      },
-      "timestamp": 1778358133081,
-      "_typing": true
-    },
-    {
-      "isUser": false,
       "text": "⚠️ Error llamando al specialist:\n\n```\n[PolloGroq] Request too large for model `llama-3.1-8b-instant` in organization `org_01k8gxz1srearvxanpk3ekjdvh` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6409, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\n```",
       "model": "palos",
       "timestamp": 1778358133262
@@ -79,6 +66,26 @@
       "text": "Dime que hay en este repo SIN TOCAR NADA",
       "timestamp": 1778358143858,
       "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": false,
+      "text": "En el repositorio hay una carpeta `.pollo/`, un archivo `LICENSE` y un archivo `README.md`.",
+      "model": "palos",
+      "ai": {
+        "key": "llama-8b",
+        "provider": "Meta",
+        "name": "Llama 3.1 8B",
+        "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
+      },
+      "timestamp": 1778358145189
+    },
+    {
+      "isUser": false,
+      "role": "tool",
+      "tool_call_id": "j0ywxg8ky",
+      "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
+      "timestamp": 1778358144786,
+      "_hidden": true
     }
   ]
 }
