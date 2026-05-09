@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358692582,
-  "lastUpdated": 1778358711863,
+  "lastUpdated": 1778358714284,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -20,6 +20,33 @@
       "text": "Que hay en el repo",
       "timestamp": 1778358711863,
       "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": false,
+      "role": "tool",
+      "tool_call_id": "yj33h4w8z",
+      "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
+      "timestamp": 1778358713798,
+      "_hidden": true
+    },
+    {
+      "isUser": false,
+      "text": "_pensando…_",
+      "model": "summum",
+      "ai": {
+        "key": "llama-70b",
+        "provider": "Meta",
+        "name": "Llama 3.3 70B",
+        "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
+      },
+      "timestamp": 1778358713798,
+      "_typing": true
+    },
+    {
+      "isUser": false,
+      "text": "⚠️ Error llamando al specialist:\n\n```\n[PolloGroq] Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.\n```",
+      "model": "summum",
+      "timestamp": 1778358714284
     }
   ]
 }
