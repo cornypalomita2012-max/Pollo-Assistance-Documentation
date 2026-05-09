@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358105535,
-  "lastUpdated": 1778358112224,
+  "lastUpdated": 1778358131411,
   "currentMode": "ask",
   "currentModel": "palos",
   "messages": [
@@ -40,6 +40,12 @@
       "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
       "timestamp": 1778358111784,
       "_hidden": true
+    },
+    {
+      "isUser": true,
+      "text": "Que hay en el readme.md",
+      "timestamp": 1778358131411,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
