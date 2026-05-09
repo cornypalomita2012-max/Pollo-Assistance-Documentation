@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778358692582,
-  "lastUpdated": 1778358728220,
+  "lastUpdated": 1778358739087,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -60,6 +60,12 @@
       "text": "{\"path\":\"\",\"items\":[{\"name\":\".pollo\",\"type\":\"dir\",\"size\":0},{\"name\":\"LICENSE\",\"type\":\"file\",\"size\":7048},{\"name\":\"README.md\",\"type\":\"file\",\"size\":10636}]}",
       "timestamp": 1778358727679,
       "_hidden": true
+    },
+    {
+      "isUser": true,
+      "text": "y que hay dentro de cada archivo",
+      "timestamp": 1778358739087,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
