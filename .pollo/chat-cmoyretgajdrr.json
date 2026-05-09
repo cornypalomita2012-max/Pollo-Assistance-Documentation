@@ -11,8 +11,21 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778356277546,
-  "lastUpdated": 1778356277546,
+  "lastUpdated": 1778356303255,
   "currentMode": "ask",
-  "currentModel": "palos",
-  "messages": []
+  "currentModel": "summum",
+  "messages": [
+    {
+      "isUser": true,
+      "text": "Dime que hay en este repo SIN TOCAR NADA",
+      "timestamp": 1778356303127,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
+    },
+    {
+      "isUser": false,
+      "text": "⚠️ Error llamando al specialist:\n\n```\nFailed to fetch\n```",
+      "model": "summum",
+      "timestamp": 1778356303255
+    }
+  ]
 }
