@@ -11,7 +11,7 @@
   "ownerLogin": "cornypalomita2012-max",
   "ownerEmail": "",
   "createdAt": 1778359219544,
-  "lastUpdated": 1778359232670,
+  "lastUpdated": 1778359245724,
   "currentMode": "ask",
   "currentModel": "summum",
   "messages": [
@@ -62,6 +62,12 @@
         "logoSVG": "<div style=\"width:100%;height:100%;background:white;display:flex;align-items:center;justify-content:center;\"><img src=\"https://www.google.com/s2/favicons?domain=meta.com&sz=64\" alt=\"Meta\" style=\"width:88%;height:88%;object-fit:contain;border-radius:50%;\" loading=\"lazy\"></div>"
       },
       "timestamp": 1778359232670
+    },
+    {
+      "isUser": true,
+      "text": "Que licencia usa?",
+      "timestamp": 1778359245724,
+      "authorUid": "0XhMcS3Y2qYve5PForo5lNOOrH33"
     }
   ]
 }
